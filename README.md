@@ -66,4 +66,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Your Name - www.linkedin.com/in/vikas-verma-88234424a - vikasvermaxyz779@gmail.com
 
-Project Link: [https://github.com/your-username/movie-recommendation-system](https://github.com/your-username/movie-recommendation-system)
+Project Link: https://github.com/vikasverma-xyz/Movies-Recommendation-System/blob/main/app.py
